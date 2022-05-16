@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44606" started-at="2022-05-16T13:41:44 IST" finished-at="2022-05-16T13:42:28 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44606" started-at="2022-05-16T13:41:44 IST" finished-at="2022-05-16T13:42:28 IST">
+      <class name="flipkart.scripts.TC001">
+        <test-method status="PASS" signature="startReporting()[pri:0, instance:flipkart.scripts.TC001@7e2d773b]" name="startReporting" is-config="true" duration-ms="638" started-at="2022-05-16T13:41:44 IST" finished-at="2022-05-16T13:41:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReporting -->
+        <test-method status="PASS" signature="LoginAndValidateItemPrice()[pri:0, instance:flipkart.scripts.TC001@7e2d773b]" name="LoginAndValidateItemPrice" duration-ms="42847" started-at="2022-05-16T13:41:44 IST" finished-at="2022-05-16T13:42:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAndValidateItemPrice -->
+        <test-method status="PASS" signature="stopReporting()[pri:0, instance:flipkart.scripts.TC001@7e2d773b]" name="stopReporting" is-config="true" duration-ms="952" started-at="2022-05-16T13:42:27 IST" finished-at="2022-05-16T13:42:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReporting -->
+      </class> <!-- flipkart.scripts.TC001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
